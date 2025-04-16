@@ -1,4 +1,5 @@
 🎮 Number Guessing Game in Java
+
 This is a GUI-based Number Guessing Game built using Java Swing. The game challenges players to guess a randomly generated number within a limited number of attempts. It's fun, interactive, and designed for beginner-level Java practice.
 
 🚀 Features
